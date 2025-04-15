@@ -38,7 +38,7 @@ El programa solicita una cadena de texto y una palabra objetivo, luego muestra y
 
 ---
 
-## 📌 Instrucciones Generales para la ejecucion de los codigos
+## Instrucciones Generales para la ejecucion de los codigos
 1. Compila cada archivo `.c` correspondiente a los problemas.
 2. Ejecuta desde Dev-C++ o una terminal compatible.
 3. Sigue las instrucciones por consola para cada entrada de datos.
